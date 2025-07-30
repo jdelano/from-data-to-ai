@@ -8,10 +8,9 @@ This textbook is designed for college freshmen with no prior programming experie
 
 ## Repository Contents
 
-- 📁 **code/** - All code examples from each chapter
-- 📁 **data/** - Sample datasets used in the book
-- 📁 **exercises/** - Starter code for end-of-chapter exercises
-- 📁 **solutions/** - Selected exercise solutions (released after assignments are due)
+- 📁 **Chapter x/** - All code examples from each chapter
+- 📁 **Chapter x/exercises/** - Starter code for end-of-chapter exercises
+- 📁 **Chapter x/data/** - Sample data sets used in chapters that use data sets
 
 ## Getting Started
 
@@ -21,12 +20,34 @@ This textbook is designed for college freshmen with no prior programming experie
 
 ## Requirements
 
-- Python 3.8 or higher
+- Python 3.13 or higher
 - Libraries: pandas, requests, matplotlib, seaborn (full list in requirements.txt)
 
 ## License
 
-This work is licensed under [specify your chosen license].
+This project is licensed under the MIT License - see below:
+
+MIT License
+
+Copyright (c) 2025 John D. Delano
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
 
 ## About the Book
 
