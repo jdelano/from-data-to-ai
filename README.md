@@ -15,8 +15,7 @@ This textbook is designed for college freshmen with no prior programming experie
 ## Getting Started
 
 1. Clone or download this repository
-2. Follow the setup instructions in Chapter 1 of the textbook
-3. Each chapter's code is in its own folder with a README file
+2. Each chapter's code is in its own folder with a README file
 
 ## Requirements
 
