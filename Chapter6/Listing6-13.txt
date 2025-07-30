@@ -1,0 +1,6 @@
+After applying lambda functions:
+      Name  Test  Participation  Curved  Total
+0    Alice    85              8      90     93
+1      Bob    92              9      97    101
+2  Charlie    78              7      83     85
+3    Diana    96             10     101    106

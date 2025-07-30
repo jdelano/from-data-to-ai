@@ -1,0 +1,3 @@
+    name      role        team
+0  Alice   Analyst  Data Science  
+1    Bob  Engineer  Data Science

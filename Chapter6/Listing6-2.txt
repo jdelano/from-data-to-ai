@@ -1,0 +1,7 @@
+Students with suspicious ages:
+0    False
+1    False
+2     True
+3    False
+4    False
+Name: Age, dtype: bool

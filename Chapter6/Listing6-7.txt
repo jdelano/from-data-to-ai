@@ -1,0 +1,7 @@
+Students with academic status:
+      Name  Age  GPA Academic Status
+0    Alice   19  3.8     Dean's List
+1      Bob   22  3.2            Good
+2  Charlie  150  4.0     Dean's List
+3    Diana   20  1.9       Probation
+4      Eve   -5  2.1            Good

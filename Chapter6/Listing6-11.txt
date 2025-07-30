@@ -1,0 +1,5 @@
+Grades after calculations:
+   Student  Test  Curve  Final  Percent
+0    Alice    85      5     90     0.90
+1      Bob    92      3     95     0.95
+2  Charlie    78      7     85     0.85

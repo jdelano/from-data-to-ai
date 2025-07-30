@@ -1,0 +1,7 @@
+Missing value summary:
+ID              0
+Satisfaction    3
+study_hours     2
+income          2
+dtype: int64
+Rows with missing data: 5

@@ -1,0 +1,13 @@
+Dataset: Seattle Weather Data (Jan 2020 - Dec 2024)
+Source: National Weather Service API, collected by Jane Doe
+Description: Daily weather observations (temperature, precipitation, etc.) for Seattle, WA.
+Files:
+- weather_seattle_raw_2020-2024.csv: Raw data downloaded directly from source, one line per day.
+- weather_seattle_cleaned.csv: Cleaned data with outliers removed and missing values filled.
+- weather_codebook.txt: Definitions of columns and units.
+Columns in weather_seattle_cleaned.csv:
+- date: Date of observation (YYYY-MM-DD format).
+- max_temp: Maximum temperature of the day in °C.
+- min_temp: Minimum temperature of the day in °C.
+- precipitation: Total precipitation for the day in millimeters. (0 if no rain)
+- conditions: Categorical text describing weather (e.g., "Sunny", "Rain", "Snow", "Cloudy").

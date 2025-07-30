@@ -1,0 +1,22 @@
+transaction_id,show_name,date,ticket_type,price,seats_sold,customer_name,seat_number
+1001,Romeo and Juliet,2024-10-15,Adult,35.00,1,John Smith,A12
+1002,Romeo & Juliet,2024-10-15,Student,25.00,1,Jane Doe,A13
+1003,R&J,2024-10-15,Adult,35.00,1,Bob Johnson,A14
+1001,Romeo and Juliet,2024-10-15,Adult,35.00,1,John Smith,A12
+1004,Hamlet,2024-10-22,Adult,-15.00,1,Alice Brown,B5
+1005,Hamlet,2024-10-22,Student,30.00,1,Charlie Davis,B6
+1006,Macbeth,2055-11-05,Adult,35.00,1,Eve Wilson,C1
+1007,Macbeth,2024-11-05,Adult,250.00,1,Frank Miller,C2
+1008,The Tempest,2024-11-12,Adult,35.00,600,Group Sale,Multiple
+1009,The Tempest,2024-11-12,Student,25.00,1,Grace Lee,D10
+1010,A Midsummer Night's Dream,2024-11-19,Adult,35.00,1,Henry Taylor,E5
+1011,A Midsummer Night's Dream,2024-11-19,Std,25.00,1,Iris Martin,E6
+1012,A Midsummer Night's Dream,2024-11-19,Student Discount,25.00,1,Jack White,E7
+1013,King Lear,2024-12-03,Adult,35.00,1,Karen Clark,F1
+1014,King Lear,2024-12-03,Senior,20.00,1,Larry Adams,F2
+1015,King Lear,2024-12-03,,35.00,1,Mary Johnson,F3
+1016,Othello,2024-12-10,Adult,40.00,1,Nathan Brown,A1
+1017,Othello,2024-12-10,Student,45.00,1,Olivia Davis,A2
+1018,Much Ado About Nothing,2015-01-15,Adult,15.00,1,Paul Wilson,G5
+1019,Much Ado About Nothing,2024-12-17,Adult,35.00,1,Quinn Miller,G6
+1020,The Merchant of Venice,2024-12-20,Adult,35.00,1,Rachel Green,A12

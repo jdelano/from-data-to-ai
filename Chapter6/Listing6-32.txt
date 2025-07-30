@@ -1,0 +1,6 @@
+Clean data:
+   student_id  age  study  satisfy
+0           1   19     25        4
+1           2   22     35        5
+3           4   20     15        3
+5           6   21     40        1

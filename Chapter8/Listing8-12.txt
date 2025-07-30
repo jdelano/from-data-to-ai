@@ -1,0 +1,12 @@
+=== After unit conversion ===
+  product_id product_name  weight_kg_x location  weight_lbs  weight_kg_y
+0       P001       Widget          2.5      NaN         NaN          NaN
+1       P002       Gadget          1.2  Aisle 3        2.65     1.202019
+2       P003    Doohickey          3.8  Aisle 1        8.38     3.801101
+3       P004          NaN          NaN  Aisle 5        4.41     2.000341
+=== Weight verification ===
+  product_id  weight_kg_x  weight_kg_y  weight_match
+0       P001          2.5          NaN         False
+1       P002          1.2     1.202019          True
+2       P003          3.8     3.801101          True
+3       P004          NaN     2.000341         False

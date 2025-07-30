@@ -1,0 +1,4 @@
+   year  sales  change  pct_change
+0  2022    100     NaN         NaN
+1  2023    120    20.0   20.000000
+2  2024    110   -10.0   -8.333333

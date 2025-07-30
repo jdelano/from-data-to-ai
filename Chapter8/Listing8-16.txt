@@ -1,0 +1,17 @@
+Long format:
+   student_id student_name test_type  score
+0         101        Alice   midterm     85
+1         101        Alice     final     88
+2         101        Alice   project     92
+3         102          Bob   midterm     78
+4         102          Bob     final     82
+5         102          Bob   project     85
+=== Wide format ===
+test_type                final  midterm  project
+student_id student_name                         
+101        Alice            88       85       92
+102        Bob              82       78       85
+=== Cleaned wide format ===
+test_type  student_id student_name  final  midterm  project
+0                 101        Alice     88       85       92
+1                 102          Bob     82       78       85

@@ -1,0 +1,6 @@
+Data with discount prices:
+    product      price discount  units  price_clean  discount_clean  units_clean  discount_price
+0  Widget A     $19.99      10%  1,250        19.99            0.10         1250          17.991
+1  Widget B    $125.50      15%    850       125.50            0.15          850         106.675
+2  Widget C  $2,499.00      20%  2,100      2499.00            0.20         2100        1999.200
+3  Widget D     $45.00       5%  3,075        45.00            0.05         3075          42.750

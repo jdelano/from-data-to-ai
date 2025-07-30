@@ -1,0 +1,6 @@
+0   Shirt    S             1
+1  Jacket    M             2
+2   Pants    L             3
+3     Hat    M             2
+4   Dress    S             1
+Average size: 1.8

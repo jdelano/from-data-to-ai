@@ -1,0 +1,24 @@
+=== INNER JOIN ===
+   emp_id   name  dept_id    dept_name
+0       1  Alice       10        Sales
+1       2    Bob       20  Engineering
+2       3  Cathy       30           HR
+=== LEFT JOIN ===
+   emp_id   name  dept_id    dept_name
+0       1  Alice       10        Sales
+1       2    Bob       20  Engineering
+2       3  Cathy       30           HR
+3       4    Dan       40          NaN
+=== RIGHT JOIN ===
+   emp_id   name  dept_id    dept_name
+0     1.0  Alice       10        Sales
+1     2.0    Bob       20  Engineering
+2     3.0  Cathy       30           HR
+3     NaN    NaN       50    Marketing
+=== FULL OUTER JOIN ===
+   emp_id   name  dept_id    dept_name
+0     1.0  Alice       10        Sales
+1     2.0    Bob       20  Engineering
+2     3.0  Cathy       30           HR
+3     4.0    Dan       40          NaN
+4     NaN    NaN       50    Marketing

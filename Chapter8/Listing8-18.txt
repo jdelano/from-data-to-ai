@@ -1,0 +1,8 @@
+Integrated enrollment data with course details:
+   student_id     semester course_id instructor  credits
+0         101    fall_2023     CS101  Dr. Smith      3.0
+1         102    fall_2023   MATH201  Dr. Jones      4.0
+2         103    fall_2023     CS101  Dr. Smith      3.0
+3         101  spring_2024     CS102  Dr. Smith      3.0
+4         102  spring_2024   MATH202    Dr. Lee      4.0
+5         103  spring_2024    BIO101        NaN      NaN

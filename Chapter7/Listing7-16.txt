@@ -1,0 +1,5 @@
+     name  sales  hours  sales_per_hour
+0   Alice  12000    160       75.000000
+1     Bob   8500    120       70.833333
+2  Carlos   6000     80       75.000000
+3   Diana  15000    200       75.000000

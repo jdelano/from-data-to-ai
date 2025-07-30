@@ -1,0 +1,5 @@
+  Quarter  Revenue        Source
+0      Q1     1000  Q1-Q2_Report
+1      Q2     1500  Q1-Q2_Report
+2      Q3     2000  Q3-Q4_Report
+3      Q4     2500  Q3-Q4_Report

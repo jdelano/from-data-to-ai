@@ -1,0 +1,6 @@
+Test Data:
+   Student  Score  Capped
+0    Alice     85      85
+1      Bob    150     100
+2  Charlie     78      78
+3    Diana     95      95

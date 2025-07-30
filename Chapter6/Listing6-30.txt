@@ -1,0 +1,8 @@
+After fixing obvious errors:
+   student_id  age  study_hours  satisfy
+0           1   19         25.0        4
+1           2   22         35.0        5
+2           3   16         50.0        5
+3           4   20         15.0        3
+4           5  100         10.0        2
+5           6   21         40.0        1

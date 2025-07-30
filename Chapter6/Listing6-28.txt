@@ -1,0 +1,4 @@
+Students with unrealistic study hours:
+   student_id  study
+2           3    200
+4           5    -10

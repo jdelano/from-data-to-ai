@@ -1,0 +1,7 @@
+After extracting numbers:
+           response   number
+0  Height: 5.8 feet      5.8
+1   Weight: 150 lbs    150.0
+2     Age: 22 years     22.0
+3   Income: $45,000  45000.0
+4      Score: 85.5%     85.5

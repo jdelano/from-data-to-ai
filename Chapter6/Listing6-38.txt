@@ -1,0 +1,6 @@
+After standardizing variations:
+  student             major     status
+0      Al  Computer Science  Full Time
+1     Bob  Computer Science  Full Time
+2   Chuck           Biology  Part Time
+3     Dan           Biology  Part Time

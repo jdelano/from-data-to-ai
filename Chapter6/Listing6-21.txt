@@ -1,0 +1,6 @@
+   student_id  satisfaction  income    comments
+0        1001           4.0     Low  No Comment
+1        1002           5.0  Medium    Awesome!
+2        1003           4.0  Medium         Meh
+3        1004           3.0  Medium  No Comment
+4        1005           4.0    High      Great!

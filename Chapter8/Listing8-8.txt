@@ -1,0 +1,22 @@
+=== Merge with different key names ===
+   id   name  dept manager_x  dept_code    dept_name manager_y
+0   1  Alice    10       Yes         10        Sales      John
+1   2    Bob    20        No         20  Engineering     Sarah
+2   3  Cathy    30        No         30           HR      Mike
+=== Merge with custom suffixes ===
+   id   name  dept manager_emp  dept_code    dept_name manager_dept
+0   1  Alice    10         Yes         10        Sales         John
+1   2    Bob    20          No         20  Engineering        Sarah
+2   3  Cathy    30          No         30           HR         Mike
+=== Merge with Indicator ===
+    id   name  dept manager_x  dept_code    dept_name manager_y      _merge
+0  1.0  Alice  10.0       Yes         10        Sales      John        both
+1  2.0    Bob  20.0        No         20  Engineering     Sarah        both
+2  3.0  Cathy  30.0        No         30           HR      Mike        both
+3  NaN    NaN   NaN       NaN         40      Finance      Lisa  right_only
+Merge summary:
+_merge
+both          3
+right_only    1
+left_only     0
+Name: count, dtype: int64

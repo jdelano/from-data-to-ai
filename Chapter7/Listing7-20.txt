@@ -1,0 +1,6 @@
+        date  amount  month   day_name  quarter
+0 2024-01-15      50      1     Monday        1
+1 2024-01-16     125      1    Tuesday        1
+2 2024-06-30      75      6     Sunday        2
+3 2024-07-04     200      7   Thursday        3
+4 2024-12-25     450     12  Wednesday        4

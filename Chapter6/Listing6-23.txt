@@ -1,0 +1,8 @@
+After group-based imputation:
+  student class  study
+0      Al    FR   15.0
+1     Bob    JR   27.5
+2   Chuck    JR   25.0
+3     Dan    FR   15.0
+4     Eve    JR   30.0
+5    Fred    SO   20.0

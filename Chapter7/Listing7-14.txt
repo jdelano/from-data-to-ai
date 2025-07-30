@@ -1,0 +1,7 @@
+  student  score  score_sq
+0     Ana      2         4
+1     Ben      3         9
+2  Carlos      7        49
+3   Diana      8        64
+4    Emma      9        81
+5   Frank     10       100

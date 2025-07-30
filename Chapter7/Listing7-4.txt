@@ -1,0 +1,4 @@
+      company  revenue  revenue_millions
+0      TechCo  1500000              1.50
+1  RetailMart   750000              0.75
+2  ServicePro  2300000              2.30

@@ -1,0 +1,7 @@
+After cleaning whitespace and case:
+   id first_name last_name    major     email
+0   1         Al     Brown  Math Ed  ab@u.edu
+1   2        Bob       Lee  Math Ed  bl@u.edu
+2   3      Chuck     Smith  Math Ed  cs@u.edu
+3   4        Dan    Wilson  Biology  dw@u.edu
+4   5        Eve     Jones  Biology  ej@u.edu

@@ -1,0 +1,7 @@
+Data with missing indicators:
+   student_id  satisfy  income  no_satisfy  no_income
+0        1001      4.0     Low       False      False
+1        1002      5.0  Medium       False      False
+2        1003      4.0     Low        True      False
+3        1004      3.0     Low       False       True
+4        1005      4.0    High        True      False

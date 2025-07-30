@@ -1,0 +1,4 @@
+After harmonization:
+   employee_id   name     status   department
+0          102    Bob  Part-time        Sales
+1          103  Cathy  Full-time  Engineering

@@ -1,0 +1,7 @@
+{
+  "team": "Data Science",
+  "members": [
+    {"name": "Alice", "role": "Analyst"},
+    {"name": "Bob", "role": "Engineer"}
+  ]
+}

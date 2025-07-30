@@ -1,0 +1,16 @@
+=== Wide format ===
+   student_id   name  math  science  english
+0         101  Alice    85       92       88
+1         102    Bob    78       85       90
+2         103  Cathy    92       88       85
+=== Long format ===
+   student_id   name  subject  score
+0         101  Alice     math     85
+1         102    Bob     math     78
+2         103  Cathy     math     92
+3         101  Alice  science     92
+4         102    Bob  science     85
+5         103  Cathy  science     88
+6         101  Alice  english     88
+7         102    Bob  english     90
+8         103  Cathy  english     85

@@ -1,0 +1,3 @@
+   student_id  satisfaction  study
+0        1001           4.0   20.0
+3        1004           3.0   25.0

@@ -1,0 +1,4 @@
+Students with formatted information:
+            Name             Email             Major Major_Code
+0  Alice Johnson  alice@school.edu  Computer Science         CS
+1      Bob Smith    bob@school.edu  Computer Science         CS
