@@ -1,0 +1,11 @@
+ProductID,ProductName,Price,Category,StockLevel,LastRestocked
+P001,Wireless Mouse,$29.99,Electronics,45,2024-03-01
+P002,USB Cable,9.99,Electronics,0,2024-02-15
+P003,Notebook - Spiral,4.50,Office Supplies,120,2024-03-10
+P004,Laptop Stand,$49.99,Electronics,-5,2024-01-30
+P005,Blue Pen (Pack),2.99,Office Supplies,200,N/A
+P006,Monitor 24",199.00,Electronics,15,2024-03-05
+P007,Desk Lamp,$34.99,Office,30,2024-02-28
+P008,,,Office Supplies,50,2024-03-01
+P009,Keyboard - Wireless,$79.99,Electronics,25,2023-12-15
+P010,Paper Clips,1.99,Office Supplies,500,TBD

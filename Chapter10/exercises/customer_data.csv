@@ -1,0 +1,6 @@
+CustomerID,Name,Phone,LastPurchaseDate
+1001,John Smith,555-1234,2024-03-15
+1002,ABC Corp,,-999
+1003,Mary Johnson,(555) 987-6543,2024-02-
+1004,XYZ Industries,,2024-01-20
+1005,Robert Chen,555.4321,

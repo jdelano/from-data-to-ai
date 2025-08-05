@@ -1,0 +1,6 @@
+Chatbot: Hello! I am a chatbot. Ask me anything.
+(Type 'stop' to end the conversation.)
+You: My name is John
+Chatbot: Nice to meet you, John! How can I assist you today?
+You: What's my name?
+Chatbot: I don’t know your name yet! What would you like me to call you?
