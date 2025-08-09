@@ -1,0 +1,4 @@
+SELECT columns...
+FROM TableA
+    INNER JOIN TableB
+	    ON TableA.RelatedKeyField = TableB.RelatedKeyField;
