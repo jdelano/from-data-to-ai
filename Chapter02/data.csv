@@ -1,0 +1,11 @@
+Date;Product;Sales;Region;Category;Stock
+2024-01-15;Widget A;5234.50;North;Electronics;125
+2024-01-16;Gadget B;3421.75;South;Electronics;89
+2024-01-17;Tool C;8956.20;East;Hardware;45
+2024-01-18;Widget A;6234.50;West;Electronics;110
+2024-01-19;Device D;2156.80;North;Electronics;200
+2024-01-20;Tool C;9234.10;South;Hardware;38
+2024-01-21;Gadget B;4567.90;East;Electronics;92
+2024-01-22;Widget A;7123.40;West;Electronics;105
+2024-01-23;Device D;3456.25;North;Electronics;180
+2024-01-24;Tool C;8765.30;South;Hardware;41

@@ -1,0 +1,4 @@
+SELECT grouping_column, aggregate_function(other_column)
+FROM Table
+WHERE ...
+GROUP BY grouping_column;

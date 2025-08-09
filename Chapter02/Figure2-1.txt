@@ -1,0 +1,12 @@
+my_project/
+├── data/
+│   ├── raw/
+│   │   ├── students.csv
+│   │   └── grades.csv
+│   └── processed/
+│       └── students_cleaned.csv
+├── scripts/
+│   ├── analysis.py
+├── output/
+│   └── results/
+└── README.txt

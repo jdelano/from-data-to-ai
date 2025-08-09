@@ -1,0 +1,5 @@
+SELECT grouping_column, aggregate_function(...)
+FROM Table
+WHERE individual_row_conditions
+GROUP BY grouping_column
+HAVING aggregate_condition;

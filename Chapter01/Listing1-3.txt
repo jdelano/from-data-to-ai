@@ -1,0 +1,4 @@
+      Name  Age             Major
+0    Alice   19           Biology
+1      Bob   20  Computer Science
+2  Charlie   18           English

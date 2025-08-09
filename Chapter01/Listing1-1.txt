@@ -1,0 +1,4 @@
+Name,Age,Major
+Alice,19,Biology
+Bob,20,Computer Science
+Charlie,18,English
