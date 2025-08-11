@@ -8,7 +8,6 @@ majors_data = {
               "Other"],
     "StudentCount": [120, 95, 75, 85, 40]
 }
-
 df = pd.DataFrame(majors_data)
 
 # Create the pie chart
