@@ -1,0 +1,41 @@
+Name,Department,Date,HoursWorked,Email,Location
+John Smith,Finance,2023-01-01,4,johnsmith@example.com,Austin
+Jon Smith,Sales,2023-02-12,9,jonsmith@business.net,Chicago
+J. Smith,IT,2023-02-19,4,jsmith@company.org,Chicago
+John Smith,Finance,2023-01-08,6,johnsmith@example.com,New York
+Johnny Smith,Sales,2023-01-01,10,johnnysmith@example.com,San Francisco
+Jon Smith,Sales,2023-02-26,6,jonsmith@example.com,San Francisco
+Jon Smith,Sales,2023-01-22,6,jonsmith@example.com,San Francisco
+Johnny Smith,HR,2023-01-08,9,johnnysmith@company.org,New York
+Johnny Smith,IT,2023-01-08,7,johnnysmith@business.net,Chicago
+Johnny Smith,Sales,2023-01-22,6,johnnysmith@business.net,Austin
+Mary Johnson,Finance,2023-03-05,10,maryjohnson@business.net,New York
+Mary Johnson,Finance,2023-02-19,10,maryjohnson@business.net,Chicago
+Mary Johnson,IT,2023-01-01,10,maryjohnson@company.org,Chicago
+Mary Johnson,Sales,2023-01-29,6,maryjohnson@example.com,Austin
+M. Johnson,Sales,2023-02-26,5,mjohnson@business.net,Austin
+Mary J.,Finance,2023-03-05,8,maryj@business.net,New York
+Mary Johnson,IT,2023-01-01,9,maryjohnson@business.net,Austin
+Mary J.,Finance,2023-02-26,10,maryj@company.org,Austin
+M. Johnson,Finance,2023-03-05,4,mjohnson@business.net,San Francisco
+M. Johnson,IT,2023-02-05,7,mjohnson@business.net,New York
+Robert Wilson,IT,2023-02-19,5,robertwilson@example.com,New York
+R. Wilson,HR,2023-01-29,9,rwilson@company.org,San Francisco
+Bobby Wilson,Finance,2023-01-15,9,bobbywilson@example.com,Chicago
+Bob Wilson,Sales,2023-01-08,5,bobwilson@business.net,San Francisco
+Bobby Wilson,Finance,2023-01-29,7,bobbywilson@example.com,Chicago
+Bobby Wilson,HR,2023-03-05,8,bobbywilson@business.net,Austin
+R. Wilson,Sales,2023-02-05,7,rwilson@example.com,San Francisco
+Robert Wilson,Finance,2023-01-22,7,robertwilson@example.com,Chicago
+Bob Wilson,IT,2023-01-08,5,bobwilson@company.org,Chicago
+R. Wilson,Sales,2023-01-08,4,rwilson@example.com,San Francisco
+Sue Lee-Brown,IT,2023-01-22,10,sueleebrown@company.org,Austin
+Susan Lee Brown,HR,2023-03-05,4,susanleebrown@example.com,San Francisco
+Susan Lee-Brown,HR,2023-01-08,7,susanleebrown@example.com,New York
+Susan Lee-Brown,Sales,2023-01-22,7,susanleebrown@business.net,Chicago
+Sue Lee-Brown,Finance,2023-01-29,7,sueleebrown@company.org,San Francisco
+Sue Lee-Brown,Finance,2023-01-22,4,sueleebrown@business.net,New York
+Susan Lee-Brown,HR,2023-02-05,10,susanleebrown@example.com,New York
+Susan Lee Brown,Sales,2023-01-15,7,susanleebrown@business.net,San Francisco
+S. Lee-Brown,Finance,2023-01-15,9,sleebrown@example.com,San Francisco
+Sue Lee-Brown,Finance,2023-01-08,6,sueleebrown@business.net,New York

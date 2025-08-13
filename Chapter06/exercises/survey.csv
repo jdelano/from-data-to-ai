@@ -1,0 +1,24 @@
+Name,Age,Major,TestScore,Satisfaction,StudyHours,Income,Status,SurveyDate,CompletionRate
+Jessica Colon,19,comp sci,98,1.0,20.0,"$45,000",full-time,2023-01-15,8.5%
+JAMES DYER,-5,CS,74,2.0,5.0,"$2,500",full-time,01/15/2023,100%
+Mandy Jackson,21,comp sci,96,2.0,5.0,,full-time,"January 15, 2023",100%
+robert watkins,18,COMP SCI,63,3.0,,35000,part-time,01/15/2023,100%
+Janet Smith,21,comp sci,63,4.0,,35000,full-time,2023-01-15,8.5%
+catherine petersen,-5,COMP SCI,50,,,,full-time,"January 15, 2023",8.5%
+Joy Watts,22,comp sci,88,4.0,,35000,full-time,01/15/2023,100%
+Donald Moyer,150,comp sci,76,3.0,,"$45,000",part-time,"January 15, 2023",15%
+Darren Gonzales,22,comp sci,-15,1.0,5.0,"$2,500",full-time,"January 15, 2023",8.5%
+ Amanda Brown ,8,Computer Science,72,1.0,15.0,"$45,000",full-time,2023-01-15,100%
+chris patterson,21,COMP SCI,88,3.0,5.0,"$45,000",part-time,01/15/2023,100%
+michael peck,22,Computer Science,90,5.0,5.0,"$45,000",part-time,01/15/2023,8.5%
+ROBERT JONES,18,comp sci,61,4.0,,,part-time,2023-01-15,15%
+Andrew Watson,150,comp sci,95,1.0,,,part-time,"January 15, 2023",8.5%
+Lisa Parker,18,CS,69,2.0,20.0,"$2,500",full-time,"January 15, 2023",15%
+Stephen Pratt,19,COMP SCI,50,2.0,15.0,,part-time,01/15/2023,15%
+ Julie Dillon ,19,CS,65,3.0,,"$2,500",part-time,"January 15, 2023",8.5%
+DANIEL JACKSON,19,comp sci,62,2.0,15.0,"$45,000",full-time,2023-01-15,15%
+ Elizabeth Rogers ,18,comp sci,56,5.0,10.0,"$45,000",full-time,2023-01-15,8.5%
+Brandi Martin,8,comp sci,50,2.0,10.0,"$2,500",part-time,"January 15, 2023",15%
+robert watkins,18,Computer Science,63,3.0,,35000,part-time,01/15/2023,100%
+Donald Moyer,150,COMP SCI,76,3.0,,"$45,000",part-time,"January 15, 2023",15%
+Elizabeth Rogers,18,comp sci,56,5.0,10.0,"$45,000",full-time,2023-01-15,8.5%

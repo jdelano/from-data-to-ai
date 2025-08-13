@@ -7,21 +7,7 @@ student_data = pd.DataFrame({
     "study": [15, 20, 12, 18, -5, 25, 16, 14, 22, 19]
 })
 
-# Create figure with high DPI
-fig, ax = plt.subplots(dpi=300)
-
-# Create box plot to visualize outliers (exactly as original)
-student_data.boxplot(column="study", ax=ax)
+# Create box plot to visualize outliers
+student_data.plot(kind="box", column="study")
 plt.title("Study Hours Distribution")
-
-# Add annotation for the outlier
-ax.annotate('Outlier', 
-            xy=(1, -5), 
-            xytext=(1.15, -2),
-            arrowprops=dict(arrowstyle='->'),
-            fontsize=10)
-
-# Save high-DPI version before showing
-plt.savefig("Chapter6/06-BoxPlot.png", dpi=300, bbox_inches="tight")
-
 plt.show()
