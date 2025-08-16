@@ -1,0 +1,51 @@
+EmployeeID,Satisfaction,Department
+E1001,Satisfied,HR
+E1002,Very Satisfied,Engineering
+E1003,Neutral,HR
+E1004,Very Satisfied,Engineering
+E1005,Very Satisfied,HR
+E1006,Dissatisfied,Sales
+E1007,Neutral,HR
+E1008,Neutral,Engineering
+E1009,Neutral,Engineering
+E1010,Very Satisfied,Marketing
+E1011,Satisfied,Sales
+E1012,Neutral,HR
+E1013,Very Satisfied,Marketing
+E1014,Dissatisfied,HR
+E1015,Satisfied,HR
+E1016,Dissatisfied,Marketing
+E1017,Satisfied,Marketing
+E1018,Very Satisfied,Marketing
+E1019,Very Dissatisfied,Marketing
+E1020,Satisfied,Marketing
+E1021,Dissatisfied,HR
+E1022,Very Satisfied,Marketing
+E1023,Satisfied,Sales
+E1024,Very Dissatisfied,Engineering
+E1025,Very Dissatisfied,Marketing
+E1026,Neutral,Marketing
+E1027,Neutral,HR
+E1028,Dissatisfied,Marketing
+E1029,Satisfied,Marketing
+E1030,Satisfied,Marketing
+E1031,Neutral,HR
+E1032,Satisfied,Marketing
+E1033,Satisfied,Engineering
+E1034,Very Dissatisfied,HR
+E1035,Neutral,Engineering
+E1036,Very Satisfied,HR
+E1037,Neutral,Marketing
+E1038,Very Satisfied,Engineering
+E1039,Very Dissatisfied,HR
+E1040,Dissatisfied,Sales
+E1041,Satisfied,Marketing
+E1042,Very Dissatisfied,HR
+E1043,Satisfied,Sales
+E1044,Dissatisfied,HR
+E1045,Dissatisfied,Sales
+E1046,Very Dissatisfied,Marketing
+E1047,Dissatisfied,Engineering
+E1048,Very Satisfied,Sales
+E1049,Dissatisfied,HR
+E1050,Satisfied,Marketing

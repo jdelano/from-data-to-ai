@@ -1,5 +1,5 @@
-  product  size_L  size_M  size_S
-0   Shirt   False   False    True
-1  Jacket   False    True   False
-2   Pants    True   False   False
-3     Hat   False    True   False
+  product  color_blue  color_green  color_red
+0   Shirt       False        False       True
+1  Jacket        True        False      False
+2   Pants       False         True      False
+3     Hat        True        False      False

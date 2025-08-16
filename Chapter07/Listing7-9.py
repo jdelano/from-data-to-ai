@@ -10,7 +10,6 @@ students["age_decade"] = pd.cut(students["age"],
 )
 
 # Equal-frequency bins (4 quartiles)
-students["age_quartile"] = pd.qcut(students["age"], q=4
-)
+students["age_quartile"] = pd.qcut(students["age"], q=4)
 
 print(students)
