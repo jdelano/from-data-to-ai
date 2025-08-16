@@ -1,7 +1,6 @@
 import pandas as pd
-
 # Load the data
-df = pd.read_csv("Chapter9/data/ticket_sales.csv")
+df = pd.read_csv("Chapter09/data/ticket_sales.csv")
 df["date"] = pd.to_datetime(df["date"])
 
 # ACCURACY - Check for impossible values
@@ -33,9 +32,7 @@ print(f"Expensive student tickets: {expensive_student_tickets}")
 # COMPLETENESS - Missing values
 print("=== COMPLETENESS CHECKS ===")
 missing_values = df.isnull().sum()
-total_missing = df.isnull().sum().sum()
-total_cells = len(df) * len(df.columns)
-completeness_rate = (1 - total_missing / total_cells) * 100
+completeness_rate = df.notnull().mean().mean() * 100
 print(missing_values)
 print(f"Overall completeness rate: {completeness_rate:.1f}%")
 
