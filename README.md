@@ -25,8 +25,9 @@ This textbook is designed for college freshmen with no prior programming experie
 ## License
 
 **Book Content (PDF, text, figures)**  
-The textbook *From Data to AI: Foundations of Ethical Data Management* is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).  
-This license applies to the written content of the book only.
+The textbook *From Data to AI: Foundations of Ethical Data Management* is licensed under a  
+[Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).  
+This applies to the e-book PDF and all written content.  
 
 **Code, Exercises, and Datasets**  
 All code examples, exercises, and datasets in this repository are licensed under the MIT License. This means you are free to use, modify, and redistribute them in your own projects, provided the MIT license notice is included.
