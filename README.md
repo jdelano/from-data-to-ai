@@ -35,3 +35,5 @@ All code examples, exercises, and datasets in this repository are licensed under
 ## About the Book
 
 This textbook covers the complete data lifecycle from collection through AI interaction, with an emphasis on ethical data stewardship and practical, hands-on learning.
+
+The print version of the textbook is available on [Amazon](https://a.co/d/7OZF9hC) in either paperback or hard cover for a low cost.
